@@ -22,7 +22,7 @@ export const CTASection = ({ onRegisterClick }: CTASectionProps) => {
           להרשמה למפגש
         </Button>
         <p className="text-sm text-muted-foreground mt-6">
-          יש שאלות? צרו קשר בטלפון: 050-1234567
+          יש שאלות? צרו קשר בטלפון: 054-3168039
         </p>
       </div>
     </section>
