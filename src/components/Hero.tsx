@@ -20,7 +20,7 @@ export const Hero = ({ onRegisterClick }: HeroProps) => {
           מפגש היכרויות מיוחד
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-4 max-w-2xl mx-auto">
-          לדתיים רווקים ורווקות | פרק ב׳ | ללא ילדים
+          לדתיים רווקים ורווקות | פרק ב׳ ללא ילדים
         </p>
         <p className="text-lg text-muted-foreground mb-8 max-w-xl mx-auto">
           הזדמנות להכיר אנשים מעניינים באווירה נעימה ומכבדת
