@@ -17,7 +17,7 @@ export const Hero = ({ onRegisterClick }: HeroProps) => {
       
       <div className="relative z-10 container mx-auto px-4 py-20 text-center">
         <h1 className="text-5xl md:text-6xl font-bold text-foreground mb-6 leading-tight">
-          מפגש היכרויות מיוחד
+         מפגש היכרויות -אגדות וקלפים: חיבורים וקשרים
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-4 max-w-2xl mx-auto">
           לדתיים רווקים ורווקות | פרק ב׳ ללא ילדים
